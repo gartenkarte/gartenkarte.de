@@ -1,41 +1,22 @@
-# OuiShare Labs Hacks
+# Berliner Gartenkarte
 
-[Overview](index.md)
+[Start](index.md)
 
-[Details](details.md)
+[Karten](details.md)
 
-[Venue](venue.md)
+  * [1 Web](web.md)
+  * [2 Gartenplane](gartenplane.md)
+  * [3 Buchkarte](buchkarte.md)
 
-[About]()
+[Forschung](venue.md)
 
-  * [OuiShare](http://ouishare.net/en)
-  - - - -
-  * # OuiShare Labs
-  * [Home page](http://labs.ouishare.net/)
-  * [Hackpads](https://ouisharelabs.hackpad.com/)
-  * [GitHub](https://github.com/ouisharelabs)
-  * [Camp 2014](http://lab.ouishare.net/)
-  - - - -
-  * # Social
-  * [tw](https://twitter.com/OuiShareLabs)
-  * [fb](https://www.facebook.com/ouisharelabs)
-  * [fb g](https://www.facebook.com/groups/OuiShare.Labs)
-  * [g+](https://plus.google.com/+ouisharelabs)
-  - - - -
+[Kontakt]()
 
-[Networking the Networks]()
+[Freunde]()
 
   * # Related
-  * [OKFestival 2014](http://2014.okfestival.org/)
-  * [W3C](https://github.com/e14n/pump.io/issues/1#issuecomment-45083815)
-  * [Digital Social Innovation](http://digitalsocial.eu)
-  * [Edgeryders](https://edgeryders.eu/page/home-mb-ano)
   * [MMM](http://14mmm.org/)
-  * [allmende.io](http://allmende.io/)
-  * [&share](http://signup.andshare.co/)
-  * [liv.io](http://liv.io/)
-  * [GateSense](http://gatesense.com/)
-  - - - -
-  * [This pages' source](https://github.com/ouisharelabs/hacks)
+  * [Stadtacker](http://stadtacker.net)
+  * [Orangotango](http://orangotango.info)
 
 [gimmick:theme](yeti)
